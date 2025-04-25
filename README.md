@@ -1,6 +1,3 @@
-# Now I will create a single file that combines the README content and the file structure.
-
-combined_content = """
 # 🎟️ BookMyShow Clone (Django)
 
 A clone of the popular movie ticket booking platform [BookMyShow](https://in.bookmyshow.com/) built using **Django**. This project includes user authentication, movie listings, show timings, and booking functionalities.
