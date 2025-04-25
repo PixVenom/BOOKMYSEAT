@@ -1,13 +1,7 @@
 # 🎟️ BookMyShow Clone (Django)
 
 A clone of the popular movie ticket booking platform [BookMyShow](https://in.bookmyshow.com/) built using **Django**. This project includes user authentication, movie listings, show timings, and booking functionalities.
-
-## 📸 Screenshots
-
-*(Add screenshots here if available)*
-
 ---
-
 ## 🚀 Features
 
 - 🔐 User authentication (signup/login/logout)
